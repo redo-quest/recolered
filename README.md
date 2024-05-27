@@ -9,3 +9,5 @@ Recolor is both free and open source. You are welcome to fork the codebase and m
 
 **How to install Recolor?**
 You'll need an installation of Blueprint before being able to install this theme. Learn more about Blueprint over on [ptero.shop](https://ptero.shop). Once you have Blueprint installed, just drag and drop the `recolor.blueprint` file over to your `/var/www/pterodactyl` directory and run `blueprint -install recolor`.
+
+This is not mine, I just use this rep to clone and get the file into my vps easily <3
